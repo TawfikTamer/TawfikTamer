@@ -6,22 +6,60 @@ Backend developer specializing in Node.js.
 Focused on building scalable APIs and efficient backend systems using modern frameworks like NestJS and Express.
 
 
----
 
+---
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+**Backend:** 
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) 
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) 
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white)
+
+**Languages:** 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+**Databases:** 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) 
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
+**Authentication & Security:** 
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white) 
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?logo=google&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-338833?logo=npm&logoColor=white)
+![Crypto](https://img.shields.io/badge/Crypto-000000?logo=node.js&logoColor=white)
+![Helmet](https://img.shields.io/badge/Helmet-4A4A4A?logo=npm&logoColor=white)  
+![CORS](https://img.shields.io/badge/CORS-339933?logo=npm&logoColor=white)  
 
+**Validation:**
+![Joi](https://img.shields.io/badge/Joi-DB7093?logo=npm&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-8A2BE2?logo=npm&logoColor=white)
+![Multer](https://img.shields.io/badge/Multer-FF6600?logo=npm&logoColor=white)
+![Express Rate Limit](https://img.shields.io/badge/Rate_Limiting-000000?logo=express&logoColor=white)
+
+**Cloud & Storage:** 
+![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?logo=amazonaws&logoColor=white)
+
+**Email & Notifications:**
+![Nodemailer](https://img.shields.io/badge/Nodemailer-0078D4?logo=gmail&logoColor=white)
+
+**Tools:** 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### [Social App](https://github.com/TawfikTamer/Social_App)
+Full-featured social networking backend with posts, reactions, comments and real-time interactions
+
+### [Saraha App](https://github.com/TawfikTamer/Saraha_App)
+Backend API for anonymous messaging application with user authentication and message management
+ 
 
 ---
 
