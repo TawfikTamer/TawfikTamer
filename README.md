@@ -32,13 +32,13 @@ Focused on building scalable APIs and efficient backend systems using modern fra
 ![bcrypt](https://img.shields.io/badge/bcrypt-338833?logo=npm&logoColor=white)
 ![Crypto](https://img.shields.io/badge/Crypto-000000?logo=node.js&logoColor=white)
 ![Helmet](https://img.shields.io/badge/Helmet-4A4A4A?logo=npm&logoColor=white)  
-![CORS](https://img.shields.io/badge/CORS-339933?logo=npm&logoColor=white)  
+![CORS](https://img.shields.io/badge/CORS-339933?logo=npm&logoColor=white)
+![Express Rate Limit](https://img.shields.io/badge/Rate_Limiting-000000?logo=express&logoColor=white)
 
 **Validation:**
 ![Joi](https://img.shields.io/badge/Joi-DB7093?logo=npm&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-8A2BE2?logo=npm&logoColor=white)
 ![Multer](https://img.shields.io/badge/Multer-FF6600?logo=npm&logoColor=white)
-![Express Rate Limit](https://img.shields.io/badge/Rate_Limiting-000000?logo=express&logoColor=white)
 
 **Cloud & Storage:** 
 ![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?logo=amazonaws&logoColor=white)
