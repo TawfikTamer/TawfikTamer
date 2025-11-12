@@ -29,7 +29,7 @@ Focused on building scalable APIs and efficient backend systems using modern fra
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TawfikTamer&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TawfikTamer&theme=dark" alt="GitHub Streak" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=TawfikTamer&theme=dark" alt="GitHub Streak" /> -->
 </p>
 <!-- <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TawfikTamer&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" height="200" />
